@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.pio/libdeps": true
+    },
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/src",
+        "${workspaceFolder}/include"
+    ],
+    "C_Cpp.default.browse.path": [
+        "${workspaceFolder}/src",
+        "${workspaceFolder}/include"
+    ]
+}
